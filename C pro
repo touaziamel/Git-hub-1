@@ -8,5 +8,6 @@ printf(" enter a and b : \n ") ;
 scanf("%d%d" , &a , &b );
 c = a + b ;
 printf (" c = %d \n ", c );
+printf("this is so basic dude \n");
 return 0 ; 
 }
